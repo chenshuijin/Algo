@@ -1,0 +1,8 @@
+LIBRARY util
+
+EXPORTS
+
+IncCounter @ 1
+DecCounter @ 2
+GetMod 	@ 3
+Hello	@4
